@@ -1,0 +1,55 @@
+.logo{
+  -ms-align-items: center;
+  align-items: center;
+  display: flex;
+  padding-top: 5px;
+}
+.logo img{
+  width: 40px;
+}
+.logo span{
+  font-size: 24px;
+  padding-left: 5px;
+  color: #2db7f5;
+}
+.footer{
+  text-align: center;
+}
+.register{
+  float: right !important;
+}
+.ant-menu-horizontal > .ant-menu-item > a, .ant-menu-horizontal > .ant-menu-submenu > a{
+  display: inline-block !important;
+}
+.container{
+  padding-top: 10px;
+}
+.leftContainer{
+  width: 500px;
+  float: left;
+}
+.middleContainer{
+  margin-left: 530px;
+  margin-right: 250px;
+}
+.rightContainer{
+  position: absolute;
+  right: 0;
+  top: 9px;
+  width: 220px;
+}
+.image-headline{
+  font-size: 2em;
+}
+.carousel{
+  width: 500px;
+  float: left;
+}
+.imageblock{
+  float: left;
+  margin: 5px;
+  width: 140px;
+}
+.ant-tabs-bar{
+  margin-bottom: 0 !important;
+}
